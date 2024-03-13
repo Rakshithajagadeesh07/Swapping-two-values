@@ -23,10 +23,15 @@ Register number : 212223240135
 
 ```
 a=(input())
+
 b=(input())
+
 c=a
+
 a=b
+
 b=c
+
 print("Swapped values are:",a,b)
 ```
 
